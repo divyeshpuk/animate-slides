@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+}
+button {
+	font-size: 101%;
+	margin-right: 6px;
+}
+#slides-wrapper {
+	margin-top: 10px;
+}
+.slide {
+	height: 150px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: inline-block !important;
+	vertical-align: top;
+}
+.red-1 {
+	width: 250px;
+	background-color: red;
+}
+.green-1 {
+	width: 225px;
+	background-color: green;
+}
+.blue-1 {
+	width: 150px;
+	background-color: blue;
+}
+.yellow-1 {
+	width: 230px;
+	background-color: yellow;
+}
+.red-2 {
+	width: 175px;
+	background-color: red;
+}
+.green-2 {
+	width: 220px;
+	background-color: green;
+}
+.blue-2 {
+	width: 195px;
+	background-color: blue;
+}
+.yellow-2 {
+	width: 210px;
+	background-color: yellow;
+}
+.red-3 {
+	width: 215px;
+	background-color: red;
+}
+.green-3 {
+	width: 180px;
+	background-color: green;
+}
+.blue-3 {
+	width: 245px;
+	background-color: blue;
+}
+.yellow-3 {
+	width: 185px;
+	background-color: yellow;
+}
